@@ -1,0 +1,29 @@
+{    
+    "texts" : [
+        [
+            {"content" : "Feature your", "delay": 500 },
+            {"content" : "“About Me” bio", "delay": 500},
+            {"content" : "Widgets for Instagram", "delay": 500}
+        ],   
+        [
+            {"content" : "Newsletter", "delay": 500 },
+            {"content" : "‘예산안 협상", "delay": 500},
+            {"content" : "“너희는 재앙이야”", "delay": 500}
+        ],
+        [
+            {"content" : "세 집 중 한 집", "delay": 500 },
+            {"content" : "파주 교차로서 신호위반", "delay": 500},
+            {"content" : "안성 비료공장 화재", "delay": 500}
+        ],
+        [
+            {"content" : "전직 여가부 차관", "delay": 500 },
+            {"content" : "고지 누락 MBC", "delay": 500},
+            {"content" : "해변 바위서", "delay": 500}
+        ],
+        [
+            {"content" : "백종원 각오해라", "delay": 500 },
+            {"content" : "민주, '추경호 ", "delay": 500},
+            {"content" : "대한축구협회장", "delay": 500}
+        ]
+    ]
+}
