@@ -42,4 +42,5 @@ public class MySkillsService {
     public List<MySkills> getAllMySkills(){
         return mySkillsRepository.findAll();
     }
+    
 }
