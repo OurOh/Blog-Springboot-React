@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 개발자 정보  
 - **개발자**: 오승안 / OH SEUNG ANH 
-- **이메일**: dhtmddks98@naver.com, ahn980321@gmail.com ,
+- **이메일**: dhtmddks98@naver.com, ahn980321@gmail.com
 - **GitHub**: https://github.com/OurOh
 - **개인블로그**: https://ouroh.tistory.com/
   
